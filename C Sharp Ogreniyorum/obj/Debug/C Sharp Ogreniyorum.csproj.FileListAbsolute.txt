@@ -1,0 +1,7 @@
+C:\Users\Fr3zyy\C-Sharp-Ogreniyorum\C Sharp Ogreniyorum\bin\Debug\C Sharp Ogreniyorum.exe.config
+C:\Users\Fr3zyy\C-Sharp-Ogreniyorum\C Sharp Ogreniyorum\bin\Debug\C Sharp Ogreniyorum.exe
+C:\Users\Fr3zyy\C-Sharp-Ogreniyorum\C Sharp Ogreniyorum\bin\Debug\C Sharp Ogreniyorum.pdb
+C:\Users\Fr3zyy\C-Sharp-Ogreniyorum\C Sharp Ogreniyorum\obj\Debug\C Sharp Ogreniyorum.csproj.AssemblyReference.cache
+C:\Users\Fr3zyy\C-Sharp-Ogreniyorum\C Sharp Ogreniyorum\obj\Debug\C Sharp Ogreniyorum.csproj.CoreCompileInputs.cache
+C:\Users\Fr3zyy\C-Sharp-Ogreniyorum\C Sharp Ogreniyorum\obj\Debug\C Sharp Ogreniyorum.exe
+C:\Users\Fr3zyy\C-Sharp-Ogreniyorum\C Sharp Ogreniyorum\obj\Debug\C Sharp Ogreniyorum.pdb
